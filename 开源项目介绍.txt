@@ -1,0 +1,8 @@
+本项目展示了Vue2构造单页应用的各项功能，虽然自有2个较完整的页面，但是，麻雀虽小，五脏俱全：
+
+技术栈：
+
+	vue-router、vue-resource、es6、eslint、transation动画、父子组件之间组件与组件传值、
+	第三方插件引入、通用组件(slot)、flexbox
+
+项目已编译，可以在服务器下直接访问dist下面的index.html

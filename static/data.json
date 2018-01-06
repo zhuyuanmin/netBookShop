@@ -1,0 +1,111 @@
+{
+  "announcement": "今日上架的图书全部 8 折",
+  "slides": [
+    {
+      "id": 1, 
+      "img_url": "./static/img/a.jpg", 
+      "title": "淘宝天猫电商运营与数据化选品完全手册", 
+      "online_time": "2016-10-12", 
+      "serial_number": "978-7-121-29969-8", 
+      "pages": "244",
+      "authors": "老夏",
+      "describe": "现代化的电商运营要求对社会发展、消费者及行业变化有清晰的认识；行业数据、消费数据、互联网 发展数据都是电商行业急需掌握的内容；经营行为的变化离不开消费者行为的变化，消费者行为的变化 离不开时代的变化。"
+    },
+    {
+      "id": 2, 
+      "img_url": "./static/img/b.jpg", 
+      "title": "时间简史", 
+      "online_time": "1988", 
+      "serial_number": "978-7-121-29969-8", 
+      "pages": "245",
+      "authors": "斯蒂芬·霍金",
+      "describe": "《时间简史》是1988年湖南科学技术出版社出版的科普读物，作者是斯蒂芬·霍金，译者吴忠超，许明贤，原版出版社是牛津大学出版社。作者尽可能的将当时高深的物理前沿知识用通俗的语言详尽讲述给读者，将读者引进物理的世界"
+    },
+    {
+      "id": 3, 
+      "img_url": "./static/img/c.jpg", 
+      "title": "怪才的荒诞与忧伤", 
+      "online_time": "2000", 
+      "serial_number": "9789576219009", 
+      "pages": "345",
+      "authors": "戴夫．艾格斯",
+      "describe": "为了生存，他苦中作乐，把自己不寻常的人生遭遇化作一出插科打诨的荒诞剧。在笑闹中，流露出一丝淡淡的哀愁与一股浓浓的手足之情。"
+    }
+  ],
+  "latestUpdated": [
+    {
+      "id": 11,
+      "title": "Android 基础教程",
+      "authors": [
+        "朱杰",
+        "老夏"
+      ],
+      "img_url": "./static/img/a.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Android 初级教程",
+      "authors": [
+        "朱杰",
+        "老夏"
+      ],
+      "img_url": "./static/img/b.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Android 中级教程",
+      "authors": [
+        "朱杰",
+        "老夏"
+      ],
+      "img_url": "./static/img/c.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Android 高级教程",
+      "authors": [
+        "朱杰",
+        "老夏"
+      ],
+      "img_url": "./static/img/a.jpg"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 21,
+      "title": "JavaScript 基础教程",
+      "authors": [
+        "朱俊",
+        "老博"
+      ],
+      "img_url": "./static/img/b.jpg"
+    },
+    {
+      "id": 22,
+      "title": "JavaScript 初级教程",
+      "authors": [
+        "朱俊",
+        "老博"
+      ],
+      "img_url": "./static/img/c.jpg"
+    },
+    {
+      "id": 23,
+      "title": "JavaScript 中级教程",
+      "authors": [
+        "朱俊",
+        "老博"
+      ],
+      "img_url": "./static/img/a.jpg"
+    },
+    {
+      "id": 24,
+      "title": "JavaScript 高级教程",
+      "authors": [
+        "朱俊",
+        "老博"
+      ],
+      "img_url": "./static/img/b.jpg"
+    }
+  ]
+}
