@@ -1,8 +1,8 @@
-±¾ÏîÄ¿Õ¹Ê¾ÁËVue2¹¹Ôìµ¥Ò³Ó¦ÓÃµÄ¸÷Ïî¹¦ÄÜ£¬ËäÈ»×ÔÓÐ2¸ö½ÏÍêÕûµÄÒ³Ãæ£¬µ«ÊÇ£¬ÂéÈ¸ËäÐ¡£¬ÎåÔà¾ãÈ«£º
+æœ¬é¡¹ç›®å±•ç¤ºäº†Vue2æž„é€ å•é¡µåº”ç”¨çš„å„é¡¹åŠŸèƒ½ï¼Œè™½ç„¶åªæœ‰2ä¸ªè¾ƒå®Œæ•´çš„é¡µé¢ï¼Œä½†æ˜¯ï¼Œéº»é›€è™½å°ï¼Œäº”è„ä¿±å…¨ï¼š
 
-¼¼ÊõÕ»£º
+æŠ€æœ¯æ ˆï¼š
 
-	vue-router¡¢vue-resource¡¢es6¡¢eslint¡¢transation¶¯»­¡¢¸¸×Ó×é¼þÖ®¼ä×é¼þÓë×é¼þ´«Öµ¡¢
-	µÚÈý·½²å¼þÒýÈë¡¢Í¨ÓÃ×é¼þ(slot)¡¢flexbox
+	vue-routerã€vue-resourceã€es6ã€eslintã€transationåŠ¨ç”»ã€çˆ¶å­ç»„ä»¶ä¹‹é—´ç»„ä»¶ä¸Žç»„ä»¶ä¼ å€¼ã€
+	ç¬¬ä¸‰æ–¹æ’ä»¶å¼•å…¥ã€é€šç”¨ç»„ä»¶(slot)ã€flexbox
 
-ÏîÄ¿ÒÑ±àÒë£¬¿ÉÒÔÔÚ·þÎñÆ÷ÏÂÖ±½Ó·ÃÎÊdistÏÂÃæµÄindex.html
+é¡¹ç›®å·²ç¼–è¯‘ï¼Œå¯ä»¥åœ¨æœåŠ¡å™¨ä¸‹ç›´æŽ¥è®¿é—®distä¸‹é¢çš„index.html
